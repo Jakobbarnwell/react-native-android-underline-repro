@@ -1,0 +1,8 @@
+Starting: Intent { cmp=com.jakobbarnwell.underlinerepro/.MainActivity }
+Status: ok
+LaunchState: COLD
+Activity: com.jakobbarnwell.underlinerepro/.MainActivity
+TotalTime: 3324
+WaitTime: 3406
+Complete
+5081

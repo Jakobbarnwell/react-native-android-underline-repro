@@ -1,0 +1,10 @@
+Model: sdk_gphone_arm64
+Android: 11
+API: 30
+ABI: arm64-v8a
+Physical size: 1080x2400
+Physical density: 420
+AVD: Mimir_Android_11
+Emulator serial: emulator-5570
+Emulator version: 36.6.11.0
+Runtime: Hermes, New Architecture (generated gradle.properties)

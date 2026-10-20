@@ -1,0 +1,7 @@
+Starting: Intent { cmp=com.jakobbarnwell.underlinerepro/.MainActivity }
+Status: timeout
+LaunchState: UNKNOWN (-1)
+Activity: com.jakobbarnwell.underlinerepro/.MainActivity
+WaitTime: 13059
+Complete
+4744

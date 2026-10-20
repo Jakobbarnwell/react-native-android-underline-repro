@@ -1,0 +1,66 @@
+info Fetching system and libraries information...
+System:
+  OS: macOS 26.6.2
+  CPU: (10) arm64 Apple M5
+  Memory: 330.97 MB / 32.00 GB
+  Shell:
+    version: "5.9"
+    path: /bin/zsh
+Binaries:
+  Node:
+    version: 24.21.0
+    path: /Users/jakob/.local/bin/node
+  Yarn: Not Found
+  npm:
+    version: 11.19.0
+    path: /Users/jakob/.local/bin/npm
+  Watchman: Not Found
+Managers:
+  CocoaPods: Not Found
+SDKs:
+  iOS SDK: Not Found
+  Android SDK:
+    API Levels:
+      - "33"
+      - "36"
+      - "36"
+      - "37"
+    Build Tools:
+      - 35.0.0
+      - 36.0.0
+      - 36.1.0
+      - 37.0.0
+    System Images:
+      - android-30 | Google APIs ARM 64 v8a
+      - android-36 | Google Play ARM 64 v8a
+      - android-37.0 | 16 KB Page Size Google APIs ARM 64 v8a
+    Android NDK: Not Found
+IDEs:
+  Android Studio: 2026.1 AI-261.23567.138.2611.15646644
+  Xcode:
+    version: /undefined
+    path: /usr/bin/xcodebuild
+Languages:
+  Java:
+    version: 21.0.10
+    path: /usr/bin/javac
+  Ruby:
+    version: 2.6.10
+    path: /usr/bin/ruby
+npmPackages:
+  "@react-native-community/cli": Not Found
+  react:
+    installed: 19.3.0
+    wanted: 19.3.0
+  react-native:
+    installed: 0.88.0
+    wanted: 0.88.0
+  react-native-macos: Not Found
+npmGlobalPackages:
+  "*react-native*": Not Found
+Android:
+  hermesEnabled: Not found
+  newArchEnabled: Not found
+iOS:
+  hermesEnabled: Not found
+  newArchEnabled: Not found

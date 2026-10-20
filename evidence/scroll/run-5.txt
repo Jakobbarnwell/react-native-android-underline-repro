@@ -1,0 +1,9 @@
+2026-10-20T12:48:55Z
+Starting: Intent { cmp=com.jakobbarnwell.underlinerepro/.MainActivity }
+Status: ok
+LaunchState: COLD
+Activity: com.jakobbarnwell.underlinerepro/.MainActivity
+TotalTime: 2785
+WaitTime: 2788
+Complete
+5212
