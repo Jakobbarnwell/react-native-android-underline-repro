@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "Underline Reproducer",
+    "slug": "android-underline-repro",
+    "version": "1.0.0",
+    "android": { "package": "com.jakobbarnwell.underlinerepro" }
+  }
+}
