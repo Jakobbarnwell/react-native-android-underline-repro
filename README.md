@@ -11,6 +11,7 @@ Use Node 22 or later, npm, Java 17, and an Android SDK configured through
 `ANDROID_HOME`. On macOS Android Studio's bundled Java also works.
 
 ```sh
+export ANDROID_SERIAL=emulator-5572  # replace with your own device
 npm ci
 npm run prebuild
 cd android
@@ -26,7 +27,6 @@ the release variant. The JS bundle is embedded: Metro and Expo Go are not used.
 ## Reproduce
 
 ```sh
-export ANDROID_SERIAL=emulator-5572  # replace with your own device
 bash scripts/capture-android.sh evidence/cold
 ```
 
